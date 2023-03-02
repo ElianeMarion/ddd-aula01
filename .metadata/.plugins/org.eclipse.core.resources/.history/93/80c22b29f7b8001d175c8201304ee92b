@@ -1,0 +1,13 @@
+
+public class Aluno {
+	public static void main(String[] args) {
+		//comentário
+		
+		/*fsadf
+		 * asdf
+		 * asadf
+		 * sadf
+		 * */
+	}
+
+}
